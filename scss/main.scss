@@ -1,0 +1,17 @@
+// variables
+$primary-color:#272727;
+$font-color:red;
+
+//maps
+$font-weights:(
+   "regular" :400,
+   "medium":500,
+   "bold":600
+);
+
+body{
+    background-color: $primary-color;
+}
+h1{
+    color:$font-color;
+}
